@@ -1,7 +1,5 @@
 # Touhou СНГ Хаб
 
-Болванка сайта пока тут: https://touhou-cis-hub.herokuapp.com/
-
 ## Собрать сайт
 ```
 npm install
